@@ -1,0 +1,3 @@
+Weather application that utalizes Weather Forcast API from https://open-meteo.com/
+Displays real time data based on your location
+to begin vite development enviornment type in terminal: npm run dev
